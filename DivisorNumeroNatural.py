@@ -3,7 +3,7 @@ def obtener_numero_natural():
         try:
             numero = int(input("Ingrese un número natural: "))
             if numero <= 0:
-                raise ValueError("El número debe ser un natural positivo.")
+                raise ValueError("El número debe ser un natural y positivo.")
             return numero
         except ValueError as e:
             print(f"Entrada inválida: {e}. Intente nuevamente.")
