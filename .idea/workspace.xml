@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d7b7192-9b17-4e9e-acc3-938fdbfd02ba" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="7d7b7192-9b17-4e9e-acc3-938fdbfd02ba" name="Changes" comment="Se realizaron cambios en el codigo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DivisorNumeroNatural.py" beforeDir="false" afterPath="$PROJECT_DIR$/DivisorNumeroNatural.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.DivisorNumeroNatural.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -68,7 +80,29 @@
       <option name="presentableId" value="Default" />
       <updated>1727818693518</updated>
     </task>
+    <task id="LOCAL-00001" summary="Se añadio el codigo para la aplicacionb del calculo de divisores">
+      <option name="closed" value="true" />
+      <created>1727819023630</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727819023631</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Se realizaron cambios en el codigo">
+      <option name="closed" value="true" />
+      <created>1727819215999</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727819215999</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se añadio el codigo para la aplicacionb del calculo de divisores" />
+    <MESSAGE value="Se realizaron cambios en el codigo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se realizaron cambios en el codigo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
